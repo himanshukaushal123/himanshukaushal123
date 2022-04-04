@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Travel Bureau**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kaushalh02@gmail.com**
 
-- ⚡ Fun fact **I listen music and go to the GYM very often.**
+- ⚡ Fun fact **I listen music.**
 
 ## 🚀 Languages and Tools:
 
